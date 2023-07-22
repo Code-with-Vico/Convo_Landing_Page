@@ -1,0 +1,11 @@
+       
+       /* MOBILE */
+
+@media (min-width:280px) and (max-width: 653px) {
+    nav {
+        width: 50vw;
+        
+    }
+
+    
+}
